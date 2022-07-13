@@ -1,6 +1,6 @@
 # App
 
-![Capture](https://user-images.githubusercontent.com/100322125/178821755-5fc55909-575f-4b9b-9e94-ccf7dad7e081.PNG)
+![Capture](https://user-images.githubusercontent.com/100322125/178837363-0fb0e4a6-ecca-4eb2-b42d-2bcab0292d82.PNG)
 
 A new Flutter project.
 
